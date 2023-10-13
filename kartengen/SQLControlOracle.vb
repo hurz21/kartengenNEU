@@ -1,4 +1,4 @@
-﻿'Imports System.Data.SqlClient
+﻿'Imports System.Data.SqlClient  
 
 'Public Class SQLControlOracle
 '    Dim conntext As String = "Data Source=(DESCRIPTION=" &
